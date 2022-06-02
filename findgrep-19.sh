@@ -3,6 +3,8 @@
 pattern=$1
 directory=$2
 
+abcdefg
+
 if [ -z "$directory" ]
 then
 	directory="."
